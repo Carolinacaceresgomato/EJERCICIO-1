@@ -22,8 +22,6 @@ class Consagracion:
         self.fecha = fecha
         self.descripcion = descripcion
 
-# Instanciación de objetos según la descripción
-
 ubicacion = Ubicacion(
     ciudad="Santiago de Compostela",
     provincia="La Coruña",
