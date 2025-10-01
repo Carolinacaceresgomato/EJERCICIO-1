@@ -1,4 +1,4 @@
-# Diagrama de objetos usando clases en Python para representar la Catedral de Santiago de Compostela
+
 
 class Catedral:
     def __init__(self, nombre, ubicacion, inicio_construccion, materiales, estilos, consagraciones, bien_interes_cultural):
